@@ -62,13 +62,9 @@ You can then do, exactly what you did in line 54, and... et voila! You have to y
 
 
 
+Implementation Notes:
 
-
-
-
-
-
-
-
-
-
+Written in C.
+Uses an array to store the triangular numbers for iterative computation.
+Handles large numbers using long long to prevent integer overflow.
+Runtime is extremely fast — can handle hundreds of thousands of squares in milliseconds.
