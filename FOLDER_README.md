@@ -1,4 +1,4 @@
-## roject Euler
+## My Solutions to Project Euler
 
 [Project Euler](https://projecteuler.net) is a website featuring problems that beautifully combine  
 $$\color{blue}{\text{math}}$$ and $$\color{green}{\text{coding}}$$.
