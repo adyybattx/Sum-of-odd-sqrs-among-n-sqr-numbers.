@@ -1,15 +1,9 @@
-\documentclass{article}
-\usepackage{xcolor}
+# Project Euler
 
-\begin{document}
+[Project Euler](https://projecteuler.net) is a website featuring problems that beautifully combine **<span style="color:blue">math</span>** and **<span style="color:green">coding</span>**.  
 
-Project Euler (\texttt{https://projecteuler.net}) is a website featuring problems that beautifully combine 
-\textbf{\textcolor{blue}{math}} and \textbf{\textcolor{green}{coding}}.
+Users have complete freedom to solve these problems using any methods they desire.  
 
-Users have complete freedom to solve these problems using any methods they desire.
+The use of **<span style="color:red">computer programming</span>** and related skills is highly recommended.  
 
-The use of \textbf{\textcolor{red}{computer programming}} and related skills is highly recommended.
-
-\textbf{Happy Hunting!}
-
-\end{document}
+**Happy Hunting!**
