@@ -1,11 +1,11 @@
-# My Solutions to Project Euler
+## roject Euler
 
-[Project Euler](https://projecteuler.net) is a website featuring problems that beautifully combine **<span style="color:blue">math</span>** and **<span style="color:green">coding</span>**.  
+[Project Euler](https://projecteuler.net) is a website featuring problems that beautifully combine  
+$$\color{blue}{\text{math}}$$ and $$\color{green}{\text{coding}}$$.
 
-Users have complete freedom to solve these problems using any methods they desire.  
+Users have complete freedom to solve these problems using any methods they desire.
 
-The use of **<span style="color:red">computer programming</span>** and related skills is highly recommended.  
+The use of $$\color{red}{\text{computer programming}}$$ and related skills is highly recommended.
+Here are some of the solutions I really enjoyed creating — my implementations for a variety of interesting problems from [Project Euler](https://projecteuler.net).
 
-Here are some of the solutions I really enjoyed creating — my implementations for a variety of interesting problems from [Project Euler](https://projecteuler.net). 
-
-**Happy Hunting!**
+**Happy Hunting!** 
