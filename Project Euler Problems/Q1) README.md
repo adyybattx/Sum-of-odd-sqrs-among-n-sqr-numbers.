@@ -80,12 +80,12 @@ The next time we find an **i** worthy enough of being put up into the **'d'** va
 
 ---
 
-Now we are practically complete.  
-
-All we should do is to set:
+At this point, we've crossed all the major points that there were.<br>
+<br>
+All we should do now, is set:
 
 ```c
 i < 1000
 ```
-in the for loop, so that i goes all the way up until 999, and print out sum, outside the loop.
+in the 'for' loop, so that i goes all the way up until 999. Then, we print out sum outside the loop. <br>
 And our job is done, making this question complete!
