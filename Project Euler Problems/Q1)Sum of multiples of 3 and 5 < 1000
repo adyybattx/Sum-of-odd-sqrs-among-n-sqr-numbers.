@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(){
+
+    int n = 1000; 
+    int d = 0;
+    int sum = 0;
+
+    for (int i = 0; i < n; i++)
+    {
+        if (i%3 == 0 || i%5 == 0)
+        {
+            d = i;
+            sum = sum + d;
+        }
+    }
+
+    printf("\nThe sum of all the terms less than 1000, who are multiples of either 3,5 or both, are : %d\n\n",sum);
+    return 0;
+}
