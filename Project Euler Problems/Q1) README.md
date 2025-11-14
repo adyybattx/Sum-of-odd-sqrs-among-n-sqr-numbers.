@@ -74,3 +74,18 @@ Inside the for loop which is storing the values of **d as i**, just in the next 
 
 ```c
 sum = sum + d;
+```
+Sum is set to **0**, so adding **d** has the sum stored as **'d'**.  
+The next time we find an **i** worthy enough of being put up into the **'d'** variable, we can just use this whole feature, and what we find is the fact that the next value of **'d'** will be **added to the previous value of 'd'**.
+
+---
+
+Now we are practically complete.  
+
+All we should do is to set:
+
+```c
+i < 1000
+```
+in the for loop, so that i goes all the way up until 999, and print out sum, outside the loop.
+And our job is done, making this question complete!
